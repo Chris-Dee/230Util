@@ -1,10 +1,22 @@
+<<<<<<< HEAD
 /C.class
+=======
+/Accumulation.class
+/C.class
+/DepletionMOSCAP.class
+/FlatBand.class
+/InversionBias.class
+/Inverter.class
+>>>>>>> 87d557d3a352de0e409cf3bee21ac5ebacfc8742
 /MOSCAP.class
 /MOSFET.class
 /PNJunctions.class
 /Runner.class
+<<<<<<< HEAD
 /Accumulation.class
 /DepletionMOSCAP.class
 /FlatBand.class
 /InversionBias.class
+=======
+>>>>>>> 87d557d3a352de0e409cf3bee21ac5ebacfc8742
 /ThresholdMOSCAP.class
